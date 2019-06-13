@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle"
+    android:visible="true">
+
+    <!--設置背景-->
+    <solid android:color="@color/colorTouming"></solid>
+    <!--設置圓角-->
+    <corners android:radius="5dp"></corners>
+    <!--設置邊距-->
+    <padding android:top="5dp" android:bottom="5dp" android:right="5dp" android:left="5dp"></padding>
+    <!--設置邊框-->
+    <stroke android:color="@color/colorBorder"
+        android:width="2dp"></stroke>
+</shape>

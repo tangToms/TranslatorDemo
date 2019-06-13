@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TranslatorDemo</string>
+    <string name="btn_str">欢迎使用</string>
+    <string name="et_search">输入查询单词</string>
+    <string name="btn_search">查询</string>
+    <string name="tv_suggestion">建议</string>
+    <string name="tv_trans">翻译</string>
+    <string name="tv_transText">译文：</string>
+    <string name="tv_originText">原文：</string>
+    <string name="tv_spell">拼读：</string>
+    <string name="tv_sample">例句</string>
+</resources>
